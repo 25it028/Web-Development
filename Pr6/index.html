@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practical 6 - Fetch API</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Student Event & Profile Management</h1>
+    <p>Practical 6 - Fetch API, Search, Filter, Sort & Pagination</p>
+</header>
+
+<main>
+
+    <section class="controls">
+
+        <input
+            type="text"
+            id="searchInput"
+            placeholder="Search events..."
+        >
+
+        <select id="categoryFilter">
+            <option value="all">All Categories</option>
+        </select>
+
+        <select id="sortSelect">
+            <option value="default">Sort By</option>
+            <option value="titleAsc">Title A-Z</option>
+            <option value="titleDesc">Title Z-A</option>
+            <option value="dateAsc">Date: Oldest First</option>
+            <option value="dateDesc">Date: Newest First</option>
+        </select>
+
+    </section>
+
+    <section>
+
+        <h2>Upcoming Events</h2>
+
+        <div id="loading">
+            Loading events...
+        </div>
+
+        <div id="error"></div>
+
+        <div id="eventContainer" class="card-container"></div>
+
+        <div id="pagination" class="pagination"></div>
+
+    </section>
+
+    <section>
+
+        <h2>Student Profiles</h2>
+
+        <div id="studentContainer" class="card-container"></div>
+
+    </section>
+
+    <section>
+
+        <h2>Frequently Asked Questions</h2>
+
+        <div id="faqContainer"></div>
+
+    </section>
+
+</main>
+
+<script type="module" src="js/main.js"></script>
+
+</body>
+</html>

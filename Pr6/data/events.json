@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Workshop",
+    "category": "Workshop",
+    "date": "2026-08-20",
+    "venue": "CSPIT Seminar Hall",
+    "organizer": "IT Department"
+  },
+  {
+    "id": 2,
+    "title": "Hackathon 2026",
+    "category": "Competition",
+    "date": "2026-08-22",
+    "venue": "Innovation Lab",
+    "organizer": "CSPIT"
+  },
+  {
+    "id": 3,
+    "title": "Python Programming Session",
+    "category": "Workshop",
+    "date": "2026-08-25",
+    "venue": "Computer Lab 1",
+    "organizer": "IT Department"
+  },
+  {
+    "id": 4,
+    "title": "Sports Day",
+    "category": "Sports",
+    "date": "2026-08-28",
+    "venue": "University Ground",
+    "organizer": "Sports Committee"
+  },
+  {
+    "id": 5,
+    "title": "AI and Machine Learning Seminar",
+    "category": "Seminar",
+    "date": "2026-09-01",
+    "venue": "Auditorium",
+    "organizer": "AI Club"
+  },
+  {
+    "id": 6,
+    "title": "Cyber Security Awareness",
+    "category": "Seminar",
+    "date": "2026-09-03",
+    "venue": "Seminar Hall",
+    "organizer": "Cyber Security Club"
+  },
+  {
+    "id": 7,
+    "title": "Coding Competition",
+    "category": "Competition",
+    "date": "2026-09-05",
+    "venue": "Programming Lab",
+    "organizer": "Coding Club"
+  },
+  {
+    "id": 8,
+    "title": "Git and GitHub Workshop",
+    "category": "Workshop",
+    "date": "2026-09-08",
+    "venue": "Computer Lab 2",
+    "organizer": "Developer Club"
+  },
+  {
+    "id": 9,
+    "title": "Industrial Expert Talk",
+    "category": "Expert Talk",
+    "date": "2026-09-10",
+    "venue": "CSPIT Auditorium",
+    "organizer": "Training Cell"
+  },
+  {
+    "id": 10,
+    "title": "Photography Competition",
+    "category": "Competition",
+    "date": "2026-09-12",
+    "venue": "Cultural Hall",
+    "organizer": "Photography Club"
+  },
+  {
+    "id": 11,
+    "title": "Cloud Computing Workshop",
+    "category": "Workshop",
+    "date": "2026-09-15",
+    "venue": "Cloud Lab",
+    "organizer": "AWS Club"
+  },
+  {
+    "id": 12,
+    "title": "Annual Cultural Fest",
+    "category": "Cultural",
+    "date": "2026-09-18",
+    "venue": "University Campus",
+    "organizer": "Cultural Committee"
+  },
+  {
+    "id": 13,
+    "title": "Data Science Seminar",
+    "category": "Seminar",
+    "date": "2026-09-20",
+    "venue": "Seminar Hall",
+    "organizer": "Data Science Club"
+  },
+  {
+    "id": 14,
+    "title": "Chess Championship",
+    "category": "Sports",
+    "date": "2026-09-22",
+    "venue": "Indoor Sports Complex",
+    "organizer": "Sports Committee"
+  },
+  {
+    "id": 15,
+    "title": "Resume Building Workshop",
+    "category": "Workshop",
+    "date": "2026-09-25",
+    "venue": "Placement Cell",
+    "organizer": "Training and Placement Cell"
+  }
+]

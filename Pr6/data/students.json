@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Patel",
+    "course": "B.Tech IT",
+    "year": 3,
+    "city": "Anand",
+    "cgpa": 8.7
+  },
+  {
+    "id": 2,
+    "name": "Riya Shah",
+    "course": "B.Tech IT",
+    "year": 3,
+    "city": "Vadodara",
+    "cgpa": 9.1
+  },
+  {
+    "id": 3,
+    "name": "Dhruv Mehta",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "city": "Ahmedabad",
+    "cgpa": 8.4
+  },
+  {
+    "id": 4,
+    "name": "Kavya Patel",
+    "course": "B.Tech IT",
+    "year": 4,
+    "city": "Surat",
+    "cgpa": 9.3
+  },
+  {
+    "id": 5,
+    "name": "Yash Desai",
+    "course": "B.Tech CE",
+    "year": 3,
+    "city": "Nadiad",
+    "cgpa": 8.2
+  },
+  {
+    "id": 6,
+    "name": "Mira Joshi",
+    "course": "B.Tech IT",
+    "year": 2,
+    "city": "Anand",
+    "cgpa": 8.9
+  },
+  {
+    "id": 7,
+    "name": "Harsh Shah",
+    "course": "B.Tech CSE",
+    "year": 4,
+    "city": "Vadodara",
+    "cgpa": 9.0
+  },
+  {
+    "id": 8,
+    "name": "Neha Patel",
+    "course": "B.Tech IT",
+    "year": 3,
+    "city": "Ahmedabad",
+    "cgpa": 8.6
+  },
+  {
+    "id": 9,
+    "name": "Dev Mehta",
+    "course": "B.Tech CE",
+    "year": 2,
+    "city": "Surat",
+    "cgpa": 7.9
+  },
+  {
+    "id": 10,
+    "name": "Anaya Shah",
+    "course": "B.Tech IT",
+    "year": 4,
+    "city": "Rajkot",
+    "cgpa": 9.4
+  },
+  {
+    "id": 11,
+    "name": "Krish Patel",
+    "course": "B.Tech CSE",
+    "year": 3,
+    "city": "Anand",
+    "cgpa": 8.5
+  },
+  {
+    "id": 12,
+    "name": "Jiya Desai",
+    "course": "B.Tech IT",
+    "year": 2,
+    "city": "Nadiad",
+    "cgpa": 8.8
+  },
+  {
+    "id": 13,
+    "name": "Ved Shah",
+    "course": "B.Tech CE",
+    "year": 4,
+    "city": "Vadodara",
+    "cgpa": 9.2
+  },
+  {
+    "id": 14,
+    "name": "Ishita Patel",
+    "course": "B.Tech IT",
+    "year": 3,
+    "city": "Surat",
+    "cgpa": 8.1
+  },
+  {
+    "id": 15,
+    "name": "Om Joshi",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "city": "Ahmedabad",
+    "cgpa": 8.3
+  }
+]

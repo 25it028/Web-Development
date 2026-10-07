@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What is Fetch API?",
+    "answer": "Fetch API is used to request resources from a server."
+  },
+  {
+    "id": 2,
+    "question": "What is JSON?",
+    "answer": "JSON is a lightweight format used for storing and exchanging data."
+  },
+  {
+    "id": 3,
+    "question": "What does fetch() return?",
+    "answer": "fetch() returns a Promise."
+  },
+  {
+    "id": 4,
+    "question": "What is the purpose of map()?",
+    "answer": "map() creates a new array by transforming each element."
+  },
+  {
+    "id": 5,
+    "question": "What is filter() used for?",
+    "answer": "filter() creates a new array containing elements that satisfy a condition."
+  },
+  {
+    "id": 6,
+    "question": "What does sort() do?",
+    "answer": "sort() arranges elements according to a specified comparison."
+  },
+  {
+    "id": 7,
+    "question": "What is pagination?",
+    "answer": "Pagination divides a large set of records into smaller pages."
+  },
+  {
+    "id": 8,
+    "question": "Why is error handling required?",
+    "answer": "Error handling informs users when data cannot be loaded."
+  },
+  {
+    "id": 9,
+    "question": "What is async programming?",
+    "answer": "Asynchronous programming allows operations to execute without blocking the application."
+  },
+  {
+    "id": 10,
+    "question": "What is a Promise?",
+    "answer": "A Promise represents the eventual completion or failure of an asynchronous operation."
+  },
+  {
+    "id": 11,
+    "question": "What does response.json() do?",
+    "answer": "It converts the response body into a JavaScript object."
+  },
+  {
+    "id": 12,
+    "question": "Can JSON be used with JavaScript?",
+    "answer": "Yes, JavaScript can easily parse and process JSON data."
+  },
+  {
+    "id": 13,
+    "question": "What is dynamic rendering?",
+    "answer": "Dynamic rendering means creating webpage content using data and JavaScript."
+  },
+  {
+    "id": 14,
+    "question": "Why use modules?",
+    "answer": "Modules divide code into smaller reusable files."
+  },
+  {
+    "id": 15,
+    "question": "What is localStorage?",
+    "answer": "localStorage allows data to be stored in the browser for later use."
+  }
+]
