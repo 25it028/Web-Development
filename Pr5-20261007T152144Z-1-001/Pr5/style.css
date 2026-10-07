@@ -1,0 +1,329 @@
+/* ==============================
+   GENERAL PAGE
+   ============================== */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+
+    background: #f2f4f7;
+
+    margin: 0;
+
+    padding: 30px;
+}
+
+
+/* ==============================
+   MAIN CONTAINER
+   ============================== */
+
+.container {
+
+    max-width: 650px;
+
+    margin: auto;
+
+    background: white;
+
+    padding: 30px;
+
+    border-radius: 12px;
+
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+/* ==============================
+   HEADING
+   ============================== */
+
+h1 {
+
+    text-align: center;
+
+    margin-bottom: 5px;
+
+    color: #222;
+}
+
+.subtitle {
+
+    text-align: center;
+
+    color: #666;
+
+    margin-bottom: 30px;
+}
+
+
+/* ==============================
+   FORM GROUP
+   ============================== */
+
+.form-group {
+
+    margin-bottom: 20px;
+}
+
+
+/* ==============================
+   LABEL
+   ============================== */
+
+label,
+legend {
+
+    font-weight: bold;
+
+    color: #333;
+}
+
+label {
+
+    display: block;
+
+    margin-bottom: 7px;
+}
+
+
+/* ==============================
+   INPUT AND SELECT
+   ============================== */
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+select {
+
+    width: 100%;
+
+    padding: 12px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 6px;
+
+    font-size: 15px;
+
+    background: white;
+}
+
+
+/* ==============================
+   FOCUS
+   ============================== */
+
+input:focus,
+select:focus {
+
+    outline: 2px solid #007bff;
+
+    border-color: #007bff;
+}
+
+
+/* ==============================
+   ERROR MESSAGE
+   ============================== */
+
+.error {
+
+    display: block;
+
+    color: #d93025;
+
+    font-size: 13px;
+
+    margin-top: 5px;
+
+    min-height: 18px;
+}
+
+
+/* ==============================
+   RADIO BUTTONS
+   ============================== */
+
+fieldset {
+
+    border: none;
+
+    padding: 0;
+}
+
+.radio-group {
+
+    display: flex;
+
+    gap: 25px;
+
+    margin-top: 10px;
+}
+
+.radio-group label {
+
+    font-weight: normal;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 5px;
+}
+
+.radio-group input {
+
+    width: auto;
+}
+
+
+/* ==============================
+   TERMS
+   ============================== */
+
+.terms label {
+
+    display: flex;
+
+    align-items: flex-start;
+
+    gap: 8px;
+
+    font-weight: normal;
+}
+
+.terms input {
+
+    width: auto;
+
+    margin-top: 3px;
+}
+
+
+/* ==============================
+   PASSWORD STRENGTH
+   ============================== */
+
+.strength-container {
+
+    width: 100%;
+
+    height: 8px;
+
+    background: #ddd;
+
+    border-radius: 5px;
+
+    margin-top: 8px;
+
+    overflow: hidden;
+}
+
+#strengthBar {
+
+    width: 0%;
+
+    height: 100%;
+
+    border-radius: 5px;
+
+    transition: width 0.3s ease;
+}
+
+#strengthText {
+
+    font-size: 13px;
+
+    margin: 5px 0;
+}
+
+
+/* ==============================
+   SUBMIT BUTTON
+   ============================== */
+
+button {
+
+    width: 100%;
+
+    padding: 13px;
+
+    border: none;
+
+    border-radius: 6px;
+
+    background: #007bff;
+
+    color: white;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+button:hover {
+
+    background: #0056b3;
+}
+
+button:focus {
+
+    outline: 3px solid #80bdff;
+}
+
+
+/* ==============================
+   SUCCESS MESSAGE
+   ============================== */
+
+.success-message {
+
+    color: #198754;
+
+    background: #d1e7dd;
+
+    padding: 12px;
+
+    border-radius: 6px;
+
+    margin-top: 20px;
+
+    text-align: center;
+
+    font-weight: bold;
+
+    display: none;
+}
+
+
+/* ==============================
+   MOBILE RESPONSIVE
+   ============================== */
+
+@media (max-width: 600px) {
+
+    body {
+
+        padding: 15px;
+    }
+
+    .container {
+
+        padding: 20px;
+    }
+
+    .radio-group {
+
+        flex-direction: column;
+
+        gap: 10px;
+    }
+
+}
